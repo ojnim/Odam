@@ -1,2 +1,8 @@
 # Odam
-Ongoing Project since Spring 2024
+
+
+### processing.py
+From XML file to data
+
+### analysis.ipynb
+Data to graph/ analysis
